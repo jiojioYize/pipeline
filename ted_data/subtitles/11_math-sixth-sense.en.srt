@@ -1,0 +1,1122 @@
+1
+00:00:00,000 --> 00:00:07,000
+Transcriber: Helen Chang
+Reviewer: Tanya Cushman
+
+2
+00:00:14,079 --> 00:00:16,405
+"I love mathematics"
+
+3
+00:00:16,405 --> 00:00:18,005
+(Laughter)
+
+4
+00:00:19,155 --> 00:00:21,316
+is exactly what to say at a party
+
+5
+00:00:21,316 --> 00:00:23,446
+if you want to spend
+the next couple of hours
+
+6
+00:00:23,446 --> 00:00:25,577
+sipping your drink alone
+
+7
+00:00:25,577 --> 00:00:28,268
+in the least cool corner of the room.
+
+8
+00:00:28,378 --> 00:00:30,784
+And that's because
+when it comes to this subject -
+
+9
+00:00:30,784 --> 00:00:32,899
+all the numbers, formulas,
+
+10
+00:00:32,899 --> 00:00:34,705
+symbols, and calculations -
+
+11
+00:00:34,705 --> 00:00:37,876
+the vast majority of us are outsiders,
+
+12
+00:00:37,876 --> 00:00:39,480
+and that includes me.
+
+13
+00:00:39,720 --> 00:00:41,678
+That's why today I want to share with you
+
+14
+00:00:41,678 --> 00:00:44,264
+an outsider's perspective of mathematics -
+
+15
+00:00:44,264 --> 00:00:45,843
+what I understand of it,
+
+16
+00:00:45,843 --> 00:00:49,053
+from someone who's always
+struggled with the subject.
+
+17
+00:00:49,373 --> 00:00:50,747
+And what I've discovered,
+
+18
+00:00:50,747 --> 00:00:55,519
+as someone who went from being an outsider
+to making maths my career,
+
+19
+00:00:55,519 --> 00:01:00,920
+is that, surprisingly, we are all
+deep down born to be mathematicians.
+
+20
+00:01:00,920 --> 00:01:02,180
+(Laughter)
+
+21
+00:01:02,919 --> 00:01:04,510
+But back to me being an outsider.
+
+22
+00:01:04,510 --> 00:01:06,090
+I know what you're thinking:
+
+23
+00:01:06,090 --> 00:01:07,874
+"Wait a second, Eddie.
+
+24
+00:01:07,874 --> 00:01:09,918
+What would you know?
+
+25
+00:01:09,918 --> 00:01:11,416
+You're a maths teacher.
+
+26
+00:01:11,526 --> 00:01:13,037
+You went to a selective school.
+
+27
+00:01:13,117 --> 00:01:15,934
+You wear glasses, and you're Asian."
+
+28
+00:01:15,934 --> 00:01:18,020
+(Laughter)
+
+29
+00:01:19,953 --> 00:01:22,767
+Firstly, that's racist.
+
+30
+00:01:22,767 --> 00:01:24,340
+(Laughter)
+
+31
+00:01:24,340 --> 00:01:26,781
+Secondly, that's wrong.
+
+32
+00:01:26,781 --> 00:01:28,179
+When I was in school,
+
+33
+00:01:28,179 --> 00:01:31,230
+my favorite subjects
+were English and history.
+
+34
+00:01:31,230 --> 00:01:33,618
+And this caused a lot of angst
+for me as a teenager
+
+35
+00:01:33,618 --> 00:01:37,181
+because my high school
+truly honored mathematics.
+
+36
+00:01:37,181 --> 00:01:39,456
+Your status in the school
+pretty much correlated
+
+37
+00:01:39,456 --> 00:01:41,669
+with which mathematics class
+you ranked in.
+
+38
+00:01:41,669 --> 00:01:43,283
+There were eight classes.
+
+39
+00:01:43,283 --> 00:01:46,738
+So if you were in maths 4,
+that made you just about average.
+
+40
+00:01:46,738 --> 00:01:50,729
+If you were in maths 1,
+you were like royalty.
+
+41
+00:01:50,729 --> 00:01:51,731
+Each year,
+
+42
+00:01:51,731 --> 00:01:55,234
+our school entered the prestigious
+Australian Mathematics Competition
+
+43
+00:01:55,234 --> 00:01:58,087
+and would print out a list
+of everyone in the school
+
+44
+00:01:58,087 --> 00:02:01,050
+in order of our scores.
+
+45
+00:02:01,070 --> 00:02:04,177
+Students who received
+prizes and high distinctions
+
+46
+00:02:04,177 --> 00:02:07,957
+were pinned up at the start
+of a long corridor,
+
+47
+00:02:07,957 --> 00:02:11,934
+far, far away from the dark
+and shameful place
+
+48
+00:02:11,934 --> 00:02:13,830
+where my name appeared.
+
+49
+00:02:13,830 --> 00:02:15,901
+Maths was not really my thing.
+
+50
+00:02:16,101 --> 00:02:21,183
+Stories, characters, narratives -
+this is where I was at home.
+
+51
+00:02:21,183 --> 00:02:22,192
+And that's why
+
+52
+00:02:22,192 --> 00:02:27,001
+I raised my sails and set course
+to become an English and history teacher.
+
+53
+00:02:27,841 --> 00:02:30,852
+But a chance encounter
+at Sydney University
+
+54
+00:02:30,852 --> 00:02:32,794
+altered my life forever.
+
+55
+00:02:33,134 --> 00:02:35,517
+I was in line to enroll
+at the faculty of education
+
+56
+00:02:35,517 --> 00:02:38,716
+when I started the conversation
+with one of its professors.
+
+57
+00:02:38,716 --> 00:02:43,073
+He noticed that while my academic life
+had been dominated by humanities,
+
+58
+00:02:43,073 --> 00:02:46,612
+I had actually attempted
+some high-level maths at school.
+
+59
+00:02:46,612 --> 00:02:50,295
+What he saw was not
+that I had a problem with maths,
+
+60
+00:02:50,295 --> 00:02:53,262
+but that I had persevered with maths.
+
+61
+00:02:53,362 --> 00:02:55,470
+And he knew something I didn't -
+
+62
+00:02:55,470 --> 00:02:58,311
+that there was a critical shortage
+of mathematics educators
+
+63
+00:02:58,311 --> 00:02:59,678
+in Australian schools,
+
+64
+00:02:59,678 --> 00:03:02,480
+a shortage that remains to this day.
+
+65
+00:03:02,840 --> 00:03:07,658
+So he encouraged me to change
+my teaching area to mathematics.
+
+66
+00:03:07,678 --> 00:03:09,402
+Now, for me, becoming a teacher
+
+67
+00:03:09,402 --> 00:03:11,819
+wasn't about my love
+for a particular subject.
+
+68
+00:03:11,819 --> 00:03:16,263
+It was about having a personal impact
+on the lives of young people.
+
+69
+00:03:16,553 --> 00:03:17,926
+I'd seen firsthand at school
+
+70
+00:03:17,926 --> 00:03:22,357
+what a lasting and positive difference
+a great teacher can make.
+
+71
+00:03:22,357 --> 00:03:24,123
+I wanted to do that for someone,
+
+72
+00:03:24,123 --> 00:03:27,021
+and it didn't matter to me
+what subject I did it in.
+
+73
+00:03:27,021 --> 00:03:29,390
+If there was an acute need in mathematics,
+
+74
+00:03:29,390 --> 00:03:32,020
+then it made sense for me to go there.
+
+75
+00:03:32,957 --> 00:03:34,939
+As I studied my degree, though,
+
+76
+00:03:34,939 --> 00:03:37,792
+I discovered that mathematics
+was a very different subject
+
+77
+00:03:37,792 --> 00:03:40,140
+to what I'd originally thought.
+
+78
+00:03:40,140 --> 00:03:42,458
+I'd made the same mistake
+about mathematics
+
+79
+00:03:42,458 --> 00:03:44,522
+that I'd made earlier in my life
+
+80
+00:03:44,522 --> 00:03:46,245
+about music.
+
+81
+00:03:46,531 --> 00:03:47,986
+Like a good migrant child,
+
+82
+00:03:47,986 --> 00:03:50,565
+I dutifully learned
+to play the piano when I was young.
+
+83
+00:03:50,565 --> 00:03:51,790
+(Laughter)
+
+84
+00:03:51,790 --> 00:03:55,178
+My weekends were filled
+with endlessly repeating scales
+
+85
+00:03:55,178 --> 00:03:57,515
+and memorizing every note in the piece,
+
+86
+00:03:57,515 --> 00:03:59,349
+spring and winter.
+
+87
+00:03:59,629 --> 00:04:02,546
+I lasted two years
+before my career was abruptly ended
+
+88
+00:04:02,546 --> 00:04:04,552
+when my teacher told my parents,
+
+89
+00:04:04,552 --> 00:04:07,817
+"His fingers are too short.
+I will not teach him anymore."
+
+90
+00:04:07,817 --> 00:04:10,432
+(Laughter)
+
+91
+00:04:10,752 --> 00:04:14,838
+At seven years old,
+I thought of music like torture.
+
+92
+00:04:14,938 --> 00:04:18,578
+It was a dry, solitary, joyless exercise
+
+93
+00:04:18,578 --> 00:04:22,392
+that I only engaged with
+because someone else forced me to.
+
+94
+00:04:23,460 --> 00:04:26,756
+It took me 11 years
+to emerge from that sad place.
+
+95
+00:04:26,756 --> 00:04:27,782
+In year 12,
+
+96
+00:04:27,782 --> 00:04:30,255
+I picked up a steel string acoustic guitar
+
+97
+00:04:30,255 --> 00:04:31,769
+for the first time.
+
+98
+00:04:32,119 --> 00:04:34,095
+I wanted to play it for church,
+
+99
+00:04:34,485 --> 00:04:38,168
+and there was also a girl
+I was fairly keen on impressing.
+
+100
+00:04:38,168 --> 00:04:40,995
+So I convinced my brother
+to teach me a few chords.
+
+101
+00:04:40,995 --> 00:04:46,340
+And slowly, but surely, my mind changed.
+
+102
+00:04:46,497 --> 00:04:49,429
+I was engaged in a creative process.
+
+103
+00:04:49,429 --> 00:04:52,546
+I was making music, and I was hooked.
+
+104
+00:04:52,896 --> 00:04:54,270
+I started playing in a band,
+
+105
+00:04:54,270 --> 00:04:57,269
+and I felt the delight
+of rhythm pulsing through my body
+
+106
+00:04:57,269 --> 00:04:59,529
+as we brought our sounds together.
+
+107
+00:04:59,529 --> 00:05:02,207
+I'd been surrounded by a musical ocean
+
+108
+00:05:02,207 --> 00:05:03,586
+my entire life,
+
+109
+00:05:03,586 --> 00:05:07,726
+and for the first time,
+I realized I could swim in it.
+
+110
+00:05:08,446 --> 00:05:10,540
+I went through
+an almost identical experience
+
+111
+00:05:10,540 --> 00:05:12,361
+when it came to mathematics.
+
+112
+00:05:12,361 --> 00:05:16,359
+I used to believe that maths was about 
+rote learning inscrutable formulas
+
+113
+00:05:16,359 --> 00:05:19,850
+to solve abstract problems
+that didn't mean anything to me.
+
+114
+00:05:20,420 --> 00:05:25,519
+But at university, I began to see
+that mathematics is immensely practical
+
+115
+00:05:25,519 --> 00:05:27,832
+and even beautiful,
+
+116
+00:05:27,832 --> 00:05:29,878
+that it's not just about finding answers
+
+117
+00:05:29,878 --> 00:05:34,338
+but also about learning to ask
+the right questions,
+
+118
+00:05:34,338 --> 00:05:37,467
+and that mathematics isn't
+about mindlessly crunching numbers
+
+119
+00:05:37,467 --> 00:05:41,517
+but rather about forming
+new ways to see problems
+
+120
+00:05:41,517 --> 00:05:45,917
+so we can solve them
+by combining insight with imagination.
+
+121
+00:05:46,667 --> 00:05:52,199
+It gradually dawned on me
+that mathematics is a sense.
+
+122
+00:05:52,529 --> 00:05:56,809
+Mathematics is a sense
+just like sight and touch;
+
+123
+00:05:56,809 --> 00:05:59,350
+it's a sense that allows us
+to perceive realities
+
+124
+00:05:59,350 --> 00:06:02,356
+which would be otherwise intangible to us.
+
+125
+00:06:02,356 --> 00:06:07,089
+You know, we talk about a sense of humor
+and a sense of rhythm.
+
+126
+00:06:07,634 --> 00:06:13,024
+Mathematics is our sense for patterns,
+relationships, and logical connections.
+
+127
+00:06:13,037 --> 00:06:16,315
+It's a whole new way to see the world.
+
+128
+00:06:16,672 --> 00:06:18,909
+Now, I want to show you
+a mathematical reality
+
+129
+00:06:18,909 --> 00:06:21,431
+that I guarantee you've seen before
+
+130
+00:06:21,466 --> 00:06:24,528
+but perhaps never really perceived.
+
+131
+00:06:24,528 --> 00:06:27,916
+It's been hidden in plain sight
+your entire life.
+
+132
+00:06:29,070 --> 00:06:31,921
+This is a river delta.
+
+133
+00:06:31,921 --> 00:06:34,394
+It's a beautiful piece of geometry.
+
+134
+00:06:34,394 --> 00:06:36,108
+Now, when we hear the word geometry,
+
+135
+00:06:36,108 --> 00:06:38,555
+most of us think of triangles and circles.
+
+136
+00:06:38,555 --> 00:06:41,597
+But geometry is
+the mathematics of all shapes,
+
+137
+00:06:41,597 --> 00:06:44,192
+and this meeting of land and sea
+
+138
+00:06:44,192 --> 00:06:47,932
+has created shapes
+with an undeniable pattern.
+
+139
+00:06:47,932 --> 00:06:50,919
+It has a mathematically
+recursive structure.
+
+140
+00:06:50,919 --> 00:06:52,844
+Every part of the river delta,
+
+141
+00:06:52,844 --> 00:06:54,575
+with its twists and turns,
+
+142
+00:06:54,575 --> 00:06:58,038
+is a microversion of the greater whole.
+
+143
+00:06:58,038 --> 00:07:01,571
+So I want you to see
+the mathematics in this.
+
+144
+00:07:02,242 --> 00:07:03,869
+But that's not all.
+
+145
+00:07:03,869 --> 00:07:06,964
+I want you to compare this river delta
+
+146
+00:07:06,964 --> 00:07:09,610
+with this amazing tree.
+
+147
+00:07:10,060 --> 00:07:11,866
+It's a wonder in itself.
+
+148
+00:07:11,866 --> 00:07:16,395
+But focus with me on the similarities
+between this and the river.
+
+149
+00:07:17,199 --> 00:07:18,552
+What I want to know
+
+150
+00:07:18,552 --> 00:07:23,083
+is why on earth should these shapes
+look so remarkably alike?
+
+151
+00:07:23,083 --> 00:07:25,606
+Why should they have anything in common?
+
+152
+00:07:25,606 --> 00:07:27,882
+Things get even more perplexing
+when you realize
+
+153
+00:07:27,882 --> 00:07:30,452
+it's not just water systems
+and plants that do this.
+
+154
+00:07:30,452 --> 00:07:32,408
+If you keep your eyes open,
+
+155
+00:07:32,408 --> 00:07:36,289
+you'll see these same shapes
+are everywhere.
+
+156
+00:07:37,210 --> 00:07:38,934
+Lightning bolts disappear so quickly
+
+157
+00:07:38,934 --> 00:07:42,291
+that we seldom have the opportunity
+to ponder their geometry.
+
+158
+00:07:42,291 --> 00:07:46,964
+But their shape is so unmistakable
+and so similar to what we've just seen
+
+159
+00:07:46,964 --> 00:07:50,267
+that one can't help but be suspicious.
+
+160
+00:07:50,369 --> 00:07:51,746
+And then there's the fact
+
+161
+00:07:51,746 --> 00:07:57,401
+that every single person in this room
+is filled with these shapes too.
+
+162
+00:07:58,221 --> 00:08:01,201
+Every cubic centimeter of your body
+
+163
+00:08:01,201 --> 00:08:06,515
+is packed with blood vessels
+that trace out this same pattern.
+
+164
+00:08:06,515 --> 00:08:10,617
+There's a mathematical reality
+woven into the fabric of the universe
+
+165
+00:08:10,617 --> 00:08:13,097
+that you share with winding rivers,
+
+166
+00:08:13,097 --> 00:08:16,438
+towering trees, and raging storms.
+
+167
+00:08:16,708 --> 00:08:19,699
+These shapes are examples
+of what we call "fractals,"
+
+168
+00:08:19,699 --> 00:08:21,131
+as mathematicians.
+
+169
+00:08:21,131 --> 00:08:22,309
+Fractals get their name
+
+170
+00:08:22,309 --> 00:08:25,793
+from the same place
+as fractions and fractures -
+
+171
+00:08:25,793 --> 00:08:28,335
+it's a reference to the broken
+and shattered shapes
+
+172
+00:08:28,335 --> 00:08:30,693
+we find around us in nature.
+
+173
+00:08:30,693 --> 00:08:32,644
+Now, once you have a sense for fractals,
+
+174
+00:08:32,644 --> 00:08:36,026
+you really do start
+to see them everywhere:
+
+175
+00:08:36,396 --> 00:08:37,959
+a head of broccoli,
+
+176
+00:08:38,614 --> 00:08:40,403
+the leaves of a fern,
+
+177
+00:08:40,603 --> 00:08:43,350
+even clouds in the sky.
+
+178
+00:08:43,630 --> 00:08:44,838
+Like the other senses,
+
+179
+00:08:44,838 --> 00:08:48,495
+our mathematical sense
+can be refined with practice.
+
+180
+00:08:48,495 --> 00:08:52,837
+It's just like developing perfect pitch
+or a taste for wines.
+
+181
+00:08:52,837 --> 00:08:55,777
+You can learn to perceive
+the mathematics around you
+
+182
+00:08:55,777 --> 00:08:58,820
+with time and the right guidance.
+
+183
+00:08:59,170 --> 00:09:03,152
+Naturally, some people are born
+with sharper senses than the rest of us,
+
+184
+00:09:03,152 --> 00:09:05,702
+others are born with impairment.
+
+185
+00:09:05,702 --> 00:09:08,818
+As you can see, I drew a short straw
+in the genetic lottery
+
+186
+00:09:08,818 --> 00:09:10,635
+when it came to my eyesight.
+
+187
+00:09:10,635 --> 00:09:14,652
+Without my glasses, everything is a blur.
+
+188
+00:09:16,082 --> 00:09:19,317
+I've wrestled with this sense
+my entire life,
+
+189
+00:09:19,317 --> 00:09:21,748
+but I would never dream of saying,
+
+190
+00:09:21,748 --> 00:09:24,251
+"Well, seeing has always been
+a struggle for me.
+
+191
+00:09:24,251 --> 00:09:27,270
+I guess I'm just not
+a seeing kind of person."
+
+192
+00:09:27,270 --> 00:09:28,781
+(Laughter)
+
+193
+00:09:30,561 --> 00:09:33,296
+Yet I meet people every day
+
+194
+00:09:33,296 --> 00:09:38,090
+who feel it quite natural
+to say exactly that about mathematics.
+
+195
+00:09:38,090 --> 00:09:39,095
+Now, I'm convinced
+
+196
+00:09:39,095 --> 00:09:43,574
+we close ourselves off from a huge part
+of the human experience if we do this.
+
+197
+00:09:43,574 --> 00:09:48,129
+Because all human beings
+are wired to see patterns.
+
+198
+00:09:48,129 --> 00:09:51,983
+We live in a patterned universe, a cosmos.
+
+199
+00:09:51,983 --> 00:09:56,090
+That's what cosmos means -
+orderly and patterned -
+
+200
+00:09:56,090 --> 00:10:01,846
+as opposed to chaos,
+which means disorderly and random.
+
+201
+00:10:01,846 --> 00:10:05,159
+It isn't just seeing patterns
+that humans are so good at.
+
+202
+00:10:05,159 --> 00:10:07,443
+We love making patterns too.
+
+203
+00:10:07,443 --> 00:10:10,858
+And the people who do this well
+have a special name.
+
+204
+00:10:10,858 --> 00:10:15,198
+We call them artists, musicians,
+
+205
+00:10:15,198 --> 00:10:18,525
+sculptors, painters, cinematographers -
+
+206
+00:10:18,525 --> 00:10:21,812
+they're all pattern creators.
+
+207
+00:10:21,812 --> 00:10:23,049
+Music was once described
+
+208
+00:10:23,049 --> 00:10:27,595
+as the joy that people feel
+when they are counting but don't know it.
+
+209
+00:10:27,595 --> 00:10:28,748
+(Laughter)
+
+210
+00:10:28,748 --> 00:10:32,015
+Some of the most striking examples
+of mathematical patterns
+
+211
+00:10:32,015 --> 00:10:34,883
+are in Islamic art and design.
+
+212
+00:10:34,883 --> 00:10:37,260
+An aversion to depicting
+humans and animals
+
+213
+00:10:37,260 --> 00:10:42,316
+led to a rich history of intricate
+tile arrangements and geometric forms.
+
+214
+00:10:42,636 --> 00:10:45,661
+The aesthetic side
+of mathematical patterns like these
+
+215
+00:10:45,661 --> 00:10:48,234
+brings us back to nature itself.
+
+216
+00:10:48,572 --> 00:10:49,850
+For instance,
+
+217
+00:10:49,850 --> 00:10:53,129
+flowers are a universal symbol of beauty.
+
+218
+00:10:53,129 --> 00:10:55,673
+Every culture around the planet
+and throughout history
+
+219
+00:10:55,673 --> 00:10:59,041
+has regarded them as objects of wonder.
+
+220
+00:10:59,041 --> 00:11:00,500
+And one aspect of their beauty
+
+221
+00:11:00,500 --> 00:11:03,411
+is that they exhibit
+a special kind of symmetry.
+
+222
+00:11:03,411 --> 00:11:06,002
+Flowers grow organically from a center
+
+223
+00:11:06,002 --> 00:11:09,737
+that expands outwards
+in the shape of a spiral,
+
+224
+00:11:09,737 --> 00:11:13,842
+and this creates what we call
+"rotational symmetry."
+
+225
+00:11:13,842 --> 00:11:16,510
+You can spin a flower around and around,
+
+226
+00:11:16,510 --> 00:11:19,240
+and it still looks basically the same.
+
+227
+00:11:19,900 --> 00:11:22,412
+But not all spirals are created equal.
+
+228
+00:11:22,412 --> 00:11:27,680
+It all depends on the angle of rotation
+that goes into creating the spiral.
+
+229
+00:11:27,680 --> 00:11:33,402
+For instance, if we build a spiral
+from an angle of 90 degrees,
+
+230
+00:11:33,402 --> 00:11:37,279
+we get a cross that is neither
+beautiful nor efficient.
+
+231
+00:11:38,337 --> 00:11:43,029
+Huge parts of the flowers area
+are wasted and don't produce seeds.
+
+232
+00:11:43,529 --> 00:11:48,948
+Using an angle of 62 degrees is better
+and produces a nice circular shape,
+
+233
+00:11:48,948 --> 00:11:51,661
+like what we usually
+associate with flowers.
+
+234
+00:11:51,661 --> 00:11:53,294
+But it's still not great.
+
+235
+00:11:53,294 --> 00:11:55,365
+There's still large parts of the area
+
+236
+00:11:55,365 --> 00:11:58,766
+that are a poor use
+of resources for the flower.
+
+237
+00:11:59,641 --> 00:12:06,585
+However, if we use 137.5 degrees,
+
+238
+00:12:06,585 --> 00:12:07,757
+(Laughter)
+
+239
+00:12:07,757 --> 00:12:10,786
+we get this beautiful pattern.
+
+240
+00:12:11,696 --> 00:12:13,530
+It's astonishing,
+
+241
+00:12:13,910 --> 00:12:18,861
+and it is exactly the kind of pattern
+used by that most majestic of flowers -
+
+242
+00:12:18,861 --> 00:12:20,547
+the sunflower.
+
+243
+00:12:20,547 --> 00:12:25,128
+Now, 137.5 degrees
+might seem pretty random,
+
+244
+00:12:25,128 --> 00:12:27,876
+but it actually emerges
+out of a special number
+
+245
+00:12:27,876 --> 00:12:30,624
+that we call the "golden ratio."
+
+246
+00:12:30,624 --> 00:12:32,826
+The golden ratio is a mathematical reality
+
+247
+00:12:32,826 --> 00:12:36,652
+that, like fractals,
+you can find everywhere -
+
+248
+00:12:36,652 --> 00:12:41,536
+from the phalanges of your fingers
+to the pillars of the Parthenon.
+
+249
+00:12:41,736 --> 00:12:45,684
+That's why even at a party of 5000 people,
+
+250
+00:12:45,684 --> 00:12:47,696
+I'm proud to declare,
+
+251
+00:12:47,696 --> 00:12:50,092
+"I love mathematics!"
+
+252
+00:12:50,092 --> 00:12:52,762
+(Cheers) (Applause)
+

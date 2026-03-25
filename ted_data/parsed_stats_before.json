@@ -1,0 +1,168 @@
+{
+  "files": 32,
+  "single_paragraph_files": 16,
+  "multi_paragraph_files": 16,
+  "max_avg_words": 3479.0,
+  "rows": [
+    {
+      "file": "01_golden-gate-bridge.json",
+      "paragraphs": 1,
+      "avg_words": 659.0
+    },
+    {
+      "file": "02_brooklyn-bridge.json",
+      "paragraphs": 1,
+      "avg_words": 630.0
+    },
+    {
+      "file": "03_underwater-tunnel.json",
+      "paragraphs": 1,
+      "avg_words": 676.0
+    },
+    {
+      "file": "04_bridges-beautiful.json",
+      "paragraphs": 15,
+      "avg_words": 145.3
+    },
+    {
+      "file": "05_architecture-heal.json",
+      "paragraphs": 8,
+      "avg_words": 274.9
+    },
+    {
+      "file": "06_walkable-city.json",
+      "paragraphs": 1,
+      "avg_words": 3479.0
+    },
+    {
+      "file": "07_megacities.json",
+      "paragraphs": 3,
+      "avg_words": 927.7
+    },
+    {
+      "file": "08_math-discovered-or-invented.json",
+      "paragraphs": 1,
+      "avg_words": 686.0
+    },
+    {
+      "file": "09_fibonacci-numbers.json",
+      "paragraphs": 1,
+      "avg_words": 939.0
+    },
+    {
+      "file": "10_origami-math.json",
+      "paragraphs": 1,
+      "avg_words": 2754.0
+    },
+    {
+      "file": "11_math-sixth-sense.json",
+      "paragraphs": 2,
+      "avg_words": 931.0
+    },
+    {
+      "file": "12_ugliest-music.json",
+      "paragraphs": 3,
+      "avg_words": 465.3
+    },
+    {
+      "file": "13_math-major-flaw.json",
+      "paragraphs": 1,
+      "avg_words": 710.0
+    },
+    {
+      "file": "14_birth-of-computer.json",
+      "paragraphs": 1,
+      "avg_words": 2973.0
+    },
+    {
+      "file": "15_greatest-machine.json",
+      "paragraphs": 3,
+      "avg_words": 773.0
+    },
+    {
+      "file": "16_quantum-computers.json",
+      "paragraphs": 2,
+      "avg_words": 813.5
+    },
+    {
+      "file": "17_big-data-blind-faith.json",
+      "paragraphs": 5,
+      "avg_words": 378.2
+    },
+    {
+      "file": "18_driverless-world.json",
+      "paragraphs": 2,
+      "avg_words": 786.0
+    },
+    {
+      "file": "19_protect-truth.json",
+      "paragraphs": 2,
+      "avg_words": 1051.5
+    },
+    {
+      "file": "20_ai-empower-business.json",
+      "paragraphs": 1,
+      "avg_words": 1888.0
+    },
+    {
+      "file": "21_perpetual-motion.json",
+      "paragraphs": 1,
+      "avg_words": 707.0
+    },
+    {
+      "file": "22_metal-breathes.json",
+      "paragraphs": 2,
+      "avg_words": 749.5
+    },
+    {
+      "file": "23_smart-materials.json",
+      "paragraphs": 4,
+      "avg_words": 335.2
+    },
+    {
+      "file": "24_everyday-sounds.json",
+      "paragraphs": 7,
+      "avg_words": 249.6
+    },
+    {
+      "file": "25_4d-printing.json",
+      "paragraphs": 1,
+      "avg_words": 1071.0
+    },
+    {
+      "file": "26_materials-future.json",
+      "paragraphs": 3,
+      "avg_words": 740.3
+    },
+    {
+      "file": "27_self-driving-see.json",
+      "paragraphs": 1,
+      "avg_words": 720.0
+    },
+    {
+      "file": "28_self-driving-ethics.json",
+      "paragraphs": 1,
+      "avg_words": 622.0
+    },
+    {
+      "file": "29_driverless-world-transport.json",
+      "paragraphs": 2,
+      "avg_words": 786.0
+    },
+    {
+      "file": "30_robotaxi.json",
+      "paragraphs": 1,
+      "avg_words": 1550.0
+    },
+    {
+      "file": "31_av-transform-cities.json",
+      "paragraphs": 1,
+      "avg_words": 2674.0
+    },
+    {
+      "file": "32_self-driving-how.json",
+      "paragraphs": 2,
+      "avg_words": 814.0
+    }
+  ]
+}

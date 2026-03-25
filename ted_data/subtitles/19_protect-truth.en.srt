@@ -1,0 +1,1249 @@
+1
+00:00:00,000 --> 00:00:07,000
+Transcriber: Ivana Korom
+Reviewer: Krystian Aparta
+
+2
+00:00:13,468 --> 00:00:18,690
+So, on April 23 of 2013,
+
+3
+00:00:18,714 --> 00:00:24,228
+the Associated Press
+put out the following tweet on Twitter.
+
+4
+00:00:24,252 --> 00:00:26,649
+It said, "Breaking news:
+
+5
+00:00:26,673 --> 00:00:29,244
+Two explosions at the White House
+
+6
+00:00:29,268 --> 00:00:31,601
+and Barack Obama has been injured."
+
+7
+00:00:32,212 --> 00:00:37,637
+This tweet was retweeted 4,000 times
+in less than five minutes,
+
+8
+00:00:37,661 --> 00:00:39,878
+and it went viral thereafter.
+
+9
+00:00:40,760 --> 00:00:45,110
+Now, this tweet wasn't real news
+put out by the Associated Press.
+
+10
+00:00:45,134 --> 00:00:48,467
+In fact it was false news, or fake news,
+
+11
+00:00:48,491 --> 00:00:51,316
+that was propagated by Syrian hackers
+
+12
+00:00:51,340 --> 00:00:56,034
+that had infiltrated
+the Associated Press Twitter handle.
+
+13
+00:00:56,407 --> 00:01:00,296
+Their purpose was to disrupt society,
+but they disrupted much more.
+
+14
+00:01:00,320 --> 00:01:02,796
+Because automated trading algorithms
+
+15
+00:01:02,820 --> 00:01:06,180
+immediately seized
+on the sentiment on this tweet,
+
+16
+00:01:06,204 --> 00:01:09,172
+and began trading based on the potential
+
+17
+00:01:09,196 --> 00:01:12,577
+that the president of the United States
+had been injured or killed
+
+18
+00:01:12,601 --> 00:01:13,801
+in this explosion.
+
+19
+00:01:14,188 --> 00:01:16,180
+And as they started tweeting,
+
+20
+00:01:16,204 --> 00:01:19,553
+they immediately sent
+the stock market crashing,
+
+21
+00:01:19,577 --> 00:01:24,744
+wiping out 140 billion dollars
+in equity value in a single day.
+
+22
+00:01:25,062 --> 00:01:29,538
+Robert Mueller, special counsel
+prosecutor in the United States,
+
+23
+00:01:29,562 --> 00:01:33,454
+issued indictments
+against three Russian companies
+
+24
+00:01:33,478 --> 00:01:36,097
+and 13 Russian individuals
+
+25
+00:01:36,121 --> 00:01:39,288
+on a conspiracy to defraud
+the United States
+
+26
+00:01:39,312 --> 00:01:43,092
+by meddling in the 2016
+presidential election.
+
+27
+00:01:43,855 --> 00:01:47,419
+And what this indictment tells as a story
+
+28
+00:01:47,443 --> 00:01:50,585
+is the story of the Internet
+Research Agency,
+
+29
+00:01:50,609 --> 00:01:54,203
+the shadowy arm of the Kremlin
+on social media.
+
+30
+00:01:54,815 --> 00:01:57,592
+During the presidential election alone,
+
+31
+00:01:57,616 --> 00:01:59,505
+the Internet Agency's efforts
+
+32
+00:01:59,529 --> 00:02:04,696
+reached 126 million people
+on Facebook in the United States,
+
+33
+00:02:04,720 --> 00:02:07,997
+issued three million individual tweets
+
+34
+00:02:08,021 --> 00:02:11,863
+and 43 hours' worth of YouTube content.
+
+35
+00:02:11,887 --> 00:02:13,539
+All of which was fake --
+
+36
+00:02:13,563 --> 00:02:19,886
+misinformation designed to sow discord
+in the US presidential election.
+
+37
+00:02:20,996 --> 00:02:23,646
+A recent study by Oxford University
+
+38
+00:02:23,670 --> 00:02:26,940
+showed that in the recent
+Swedish elections,
+
+39
+00:02:26,964 --> 00:02:31,339
+one third of all of the information
+spreading on social media
+
+40
+00:02:31,363 --> 00:02:32,561
+about the election
+
+41
+00:02:32,585 --> 00:02:34,672
+was fake or misinformation.
+
+42
+00:02:35,037 --> 00:02:40,115
+In addition, these types
+of social-media misinformation campaigns
+
+43
+00:02:40,139 --> 00:02:44,290
+can spread what has been called
+"genocidal propaganda,"
+
+44
+00:02:44,314 --> 00:02:47,425
+for instance against
+the Rohingya in Burma,
+
+45
+00:02:47,449 --> 00:02:49,752
+triggering mob killings in India.
+
+46
+00:02:49,776 --> 00:02:51,270
+We studied fake news
+
+47
+00:02:51,294 --> 00:02:54,513
+and began studying it
+before it was a popular term.
+
+48
+00:02:55,030 --> 00:03:00,070
+And we recently published
+the largest-ever longitudinal study
+
+49
+00:03:00,094 --> 00:03:02,380
+of the spread of fake news online
+
+50
+00:03:02,404 --> 00:03:05,608
+on the cover of "Science"
+in March of this year.
+
+51
+00:03:06,523 --> 00:03:10,684
+We studied all of the verified
+true and false news stories
+
+52
+00:03:10,708 --> 00:03:12,461
+that ever spread on Twitter,
+
+53
+00:03:12,485 --> 00:03:16,303
+from its inception in 2006 to 2017.
+
+54
+00:03:16,612 --> 00:03:18,926
+And when we studied this information,
+
+55
+00:03:18,950 --> 00:03:21,826
+we studied verified news stories
+
+56
+00:03:21,850 --> 00:03:25,768
+that were verified by six
+independent fact-checking organizations.
+
+57
+00:03:25,792 --> 00:03:28,554
+So we knew which stories were true
+
+58
+00:03:28,578 --> 00:03:30,704
+and which stories were false.
+
+59
+00:03:30,728 --> 00:03:32,601
+We can measure their diffusion,
+
+60
+00:03:32,625 --> 00:03:34,276
+the speed of their diffusion,
+
+61
+00:03:34,300 --> 00:03:36,395
+the depth and breadth of their diffusion,
+
+62
+00:03:36,419 --> 00:03:40,561
+how many people become entangled
+in this information cascade and so on.
+
+63
+00:03:40,942 --> 00:03:42,426
+And what we did in this paper
+
+64
+00:03:42,450 --> 00:03:46,315
+was we compared the spread of true news
+to the spread of false news.
+
+65
+00:03:46,339 --> 00:03:48,022
+And here's what we found.
+
+66
+00:03:48,046 --> 00:03:52,025
+We found that false news
+diffused further, faster, deeper
+
+67
+00:03:52,049 --> 00:03:53,855
+and more broadly than the truth
+
+68
+00:03:53,879 --> 00:03:56,882
+in every category of information
+that we studied,
+
+69
+00:03:56,906 --> 00:03:59,405
+sometimes by an order of magnitude.
+
+70
+00:03:59,842 --> 00:04:03,366
+And in fact, false political news
+was the most viral.
+
+71
+00:04:03,390 --> 00:04:06,537
+It diffused further, faster,
+deeper and more broadly
+
+72
+00:04:06,561 --> 00:04:09,363
+than any other type of false news.
+
+73
+00:04:09,387 --> 00:04:10,680
+When we saw this,
+
+74
+00:04:10,704 --> 00:04:13,545
+we were at once worried but also curious.
+
+75
+00:04:13,569 --> 00:04:14,720
+Why?
+
+76
+00:04:14,744 --> 00:04:18,117
+Why does false news travel
+so much further, faster, deeper
+
+77
+00:04:18,141 --> 00:04:20,005
+and more broadly than the truth?
+
+78
+00:04:20,339 --> 00:04:23,300
+The first hypothesis
+that we came up with was,
+
+79
+00:04:23,324 --> 00:04:28,116
+"Well, maybe people who spread false news
+have more followers or follow more people,
+
+80
+00:04:28,140 --> 00:04:29,697
+or tweet more often,
+
+81
+00:04:29,721 --> 00:04:33,847
+or maybe they're more often 'verified'
+users of Twitter, with more credibility,
+
+82
+00:04:33,871 --> 00:04:36,053
+or maybe they've been on Twitter longer."
+
+83
+00:04:36,077 --> 00:04:38,375
+So we checked each one of these in turn.
+
+84
+00:04:38,691 --> 00:04:41,611
+And what we found
+was exactly the opposite.
+
+85
+00:04:41,635 --> 00:04:44,071
+False-news spreaders had fewer followers,
+
+86
+00:04:44,095 --> 00:04:46,349
+followed fewer people, were less active,
+
+87
+00:04:46,373 --> 00:04:47,833
+less often "verified"
+
+88
+00:04:47,857 --> 00:04:50,817
+and had been on Twitter
+for a shorter period of time.
+
+89
+00:04:50,841 --> 00:04:52,030
+And yet,
+
+90
+00:04:52,054 --> 00:04:57,087
+false news was 70 percent more likely
+to be retweeted than the truth,
+
+91
+00:04:57,111 --> 00:05:00,474
+controlling for all of these
+and many other factors.
+
+92
+00:05:00,498 --> 00:05:03,188
+So we had to come up
+with other explanations.
+
+93
+00:05:03,212 --> 00:05:06,679
+And we devised what we called
+a "novelty hypothesis."
+
+94
+00:05:07,038 --> 00:05:08,998
+So if you read the literature,
+
+95
+00:05:09,022 --> 00:05:12,776
+it is well known that human attention
+is drawn to novelty,
+
+96
+00:05:12,800 --> 00:05:15,319
+things that are new in the environment.
+
+97
+00:05:15,343 --> 00:05:17,328
+And if you read the sociology literature,
+
+98
+00:05:17,352 --> 00:05:21,652
+you know that we like to share
+novel information.
+
+99
+00:05:21,676 --> 00:05:25,514
+It makes us seem like we have access
+to inside information,
+
+100
+00:05:25,538 --> 00:05:29,323
+and we gain in status
+by spreading this kind of information.
+
+101
+00:05:29,792 --> 00:05:36,244
+So what we did was we measured the novelty
+of an incoming true or false tweet,
+
+102
+00:05:36,268 --> 00:05:40,323
+compared to the corpus
+of what that individual had seen
+
+103
+00:05:40,347 --> 00:05:43,299
+in the 60 days prior on Twitter.
+
+104
+00:05:43,323 --> 00:05:45,982
+But that wasn't enough,
+because we thought to ourselves,
+
+105
+00:05:46,006 --> 00:05:50,214
+"Well, maybe false news is more novel
+in an information-theoretic sense,
+
+106
+00:05:50,238 --> 00:05:53,496
+but maybe people
+don't perceive it as more novel."
+
+107
+00:05:53,849 --> 00:05:57,776
+So to understand people's
+perceptions of false news,
+
+108
+00:05:57,800 --> 00:06:01,490
+we looked at the information
+and the sentiment
+
+109
+00:06:01,514 --> 00:06:05,720
+contained in the replies
+to true and false tweets.
+
+110
+00:06:06,022 --> 00:06:07,228
+And what we found
+
+111
+00:06:07,252 --> 00:06:11,466
+was that across a bunch
+of different measures of sentiment --
+
+112
+00:06:11,490 --> 00:06:14,791
+surprise, disgust, fear, sadness,
+
+113
+00:06:14,815 --> 00:06:17,299
+anticipation, joy and trust --
+
+114
+00:06:17,323 --> 00:06:23,180
+false news exhibited significantly more
+surprise and disgust
+
+115
+00:06:23,204 --> 00:06:26,010
+in the replies to false tweets.
+
+116
+00:06:26,392 --> 00:06:30,181
+And true news exhibited
+significantly more anticipation,
+
+117
+00:06:30,205 --> 00:06:31,752
+joy and trust
+
+118
+00:06:31,776 --> 00:06:34,323
+in reply to true tweets.
+
+119
+00:06:34,347 --> 00:06:38,133
+The surprise corroborates
+our novelty hypothesis.
+
+120
+00:06:38,157 --> 00:06:42,766
+This is new and surprising,
+and so we're more likely to share it.
+
+121
+00:06:43,092 --> 00:06:46,017
+At the same time,
+there was congressional testimony
+
+122
+00:06:46,041 --> 00:06:49,077
+in front of both houses of Congress
+in the United States,
+
+123
+00:06:49,101 --> 00:06:52,839
+looking at the role of bots
+in the spread of misinformation.
+
+124
+00:06:52,863 --> 00:06:54,217
+So we looked at this too --
+
+125
+00:06:54,241 --> 00:06:57,839
+we used multiple sophisticated
+bot-detection algorithms
+
+126
+00:06:57,863 --> 00:07:00,937
+to find the bots in our data
+and to pull them out.
+
+127
+00:07:01,347 --> 00:07:04,006
+So we pulled them out,
+we put them back in
+
+128
+00:07:04,030 --> 00:07:07,149
+and we compared what happens
+to our measurement.
+
+129
+00:07:07,173 --> 00:07:09,466
+And what we found was that, yes indeed,
+
+130
+00:07:09,490 --> 00:07:13,172
+bots were accelerating
+the spread of false news online,
+
+131
+00:07:13,196 --> 00:07:15,847
+but they were accelerating
+the spread of true news
+
+132
+00:07:15,871 --> 00:07:18,276
+at approximately the same rate.
+
+133
+00:07:18,300 --> 00:07:21,158
+Which means bots are not responsible
+
+134
+00:07:21,182 --> 00:07:25,895
+for the differential diffusion
+of truth and falsity online.
+
+135
+00:07:25,919 --> 00:07:28,768
+We can't abdicate that responsibility,
+
+136
+00:07:28,792 --> 00:07:33,051
+because we, humans,
+are responsible for that spread.
+
+137
+00:07:34,472 --> 00:07:37,806
+Now, everything
+that I have told you so far,
+
+138
+00:07:37,830 --> 00:07:39,584
+unfortunately for all of us,
+
+139
+00:07:39,608 --> 00:07:40,869
+is the good news.
+
+140
+00:07:42,670 --> 00:07:47,120
+The reason is because
+it's about to get a whole lot worse.
+
+141
+00:07:47,850 --> 00:07:51,532
+And two specific technologies
+are going to make it worse.
+
+142
+00:07:52,207 --> 00:07:57,379
+We are going to see the rise
+of a tremendous wave of synthetic media.
+
+143
+00:07:57,403 --> 00:08:03,434
+Fake video, fake audio
+that is very convincing to the human eye.
+
+144
+00:08:03,458 --> 00:08:06,212
+And this will powered by two technologies.
+
+145
+00:08:06,236 --> 00:08:10,069
+The first of these is known
+as "generative adversarial networks."
+
+146
+00:08:10,093 --> 00:08:12,656
+This is a machine-learning model
+with two networks:
+
+147
+00:08:12,680 --> 00:08:14,227
+a discriminator,
+
+148
+00:08:14,251 --> 00:08:18,451
+whose job it is to determine
+whether something is true or false,
+
+149
+00:08:18,475 --> 00:08:19,642
+and a generator,
+
+150
+00:08:19,666 --> 00:08:22,816
+whose job it is to generate
+synthetic media.
+
+151
+00:08:22,840 --> 00:08:27,942
+So the synthetic generator
+generates synthetic video or audio,
+
+152
+00:08:27,966 --> 00:08:32,641
+and the discriminator tries to tell,
+"Is this real or is this fake?"
+
+153
+00:08:32,665 --> 00:08:35,539
+And in fact, it is the job
+of the generator
+
+154
+00:08:35,563 --> 00:08:39,998
+to maximize the likelihood
+that it will fool the discriminator
+
+155
+00:08:40,022 --> 00:08:43,609
+into thinking the synthetic
+video and audio that it is creating
+
+156
+00:08:43,633 --> 00:08:45,363
+is actually true.
+
+157
+00:08:45,387 --> 00:08:47,760
+Imagine a machine in a hyperloop,
+
+158
+00:08:47,784 --> 00:08:50,587
+trying to get better
+and better at fooling us.
+
+159
+00:08:51,114 --> 00:08:53,614
+This, combined with the second technology,
+
+160
+00:08:53,638 --> 00:08:59,360
+which is essentially the democratization
+of artificial intelligence to the people,
+
+161
+00:08:59,384 --> 00:09:01,573
+the ability for anyone,
+
+162
+00:09:01,597 --> 00:09:04,427
+without any background
+in artificial intelligence
+
+163
+00:09:04,451 --> 00:09:05,633
+or machine learning,
+
+164
+00:09:05,657 --> 00:09:09,760
+to deploy these kinds of algorithms
+to generate synthetic media
+
+165
+00:09:09,784 --> 00:09:14,331
+makes it ultimately so much easier
+to create videos.
+
+166
+00:09:14,355 --> 00:09:18,776
+The White House issued
+a false, doctored video
+
+167
+00:09:18,800 --> 00:09:23,088
+of a journalist interacting with an intern
+who was trying to take his microphone.
+
+168
+00:09:23,427 --> 00:09:25,426
+They removed frames from this video
+
+169
+00:09:25,450 --> 00:09:28,737
+in order to make his actions
+seem more punchy.
+
+170
+00:09:29,157 --> 00:09:32,542
+And when videographers
+and stuntmen and women
+
+171
+00:09:32,566 --> 00:09:34,993
+were interviewed
+about this type of technique,
+
+172
+00:09:35,017 --> 00:09:38,845
+they said, "Yes, we use this
+in the movies all the time
+
+173
+00:09:38,869 --> 00:09:43,632
+to make our punches and kicks
+look more choppy and more aggressive."
+
+174
+00:09:44,268 --> 00:09:46,135
+They then put out this video
+
+175
+00:09:46,159 --> 00:09:48,659
+and partly used it as justification
+
+176
+00:09:48,683 --> 00:09:52,682
+to revoke Jim Acosta,
+the reporter's, press pass
+
+177
+00:09:52,706 --> 00:09:54,045
+from the White House.
+
+178
+00:09:54,069 --> 00:09:58,878
+And CNN had to sue
+to have that press pass reinstated.
+
+179
+00:10:00,538 --> 00:10:06,141
+There are about five different paths
+that I can think of that we can follow
+
+180
+00:10:06,165 --> 00:10:09,904
+to try and address some
+of these very difficult problems today.
+
+181
+00:10:10,379 --> 00:10:12,189
+Each one of them has promise,
+
+182
+00:10:12,213 --> 00:10:15,212
+but each one of them
+has its own challenges.
+
+183
+00:10:15,236 --> 00:10:17,244
+The first one is labeling.
+
+184
+00:10:17,268 --> 00:10:18,625
+Think about it this way:
+
+185
+00:10:18,649 --> 00:10:22,260
+when you go to the grocery store
+to buy food to consume,
+
+186
+00:10:22,284 --> 00:10:24,188
+it's extensively labeled.
+
+187
+00:10:24,212 --> 00:10:26,204
+You know how many calories it has,
+
+188
+00:10:26,228 --> 00:10:28,029
+how much fat it contains --
+
+189
+00:10:28,053 --> 00:10:32,331
+and yet when we consume information,
+we have no labels whatsoever.
+
+190
+00:10:32,355 --> 00:10:34,283
+What is contained in this information?
+
+191
+00:10:34,307 --> 00:10:35,760
+Is the source credible?
+
+192
+00:10:35,784 --> 00:10:38,101
+Where is this information gathered from?
+
+193
+00:10:38,125 --> 00:10:39,950
+We have none of that information
+
+194
+00:10:39,974 --> 00:10:42,077
+when we are consuming information.
+
+195
+00:10:42,101 --> 00:10:45,339
+That is a potential avenue,
+but it comes with its challenges.
+
+196
+00:10:45,363 --> 00:10:51,814
+For instance, who gets to decide,
+in society, what's true and what's false?
+
+197
+00:10:52,387 --> 00:10:54,029
+Is it the governments?
+
+198
+00:10:54,053 --> 00:10:55,203
+Is it Facebook?
+
+199
+00:10:55,601 --> 00:10:59,363
+Is it an independent
+consortium of fact-checkers?
+
+200
+00:10:59,387 --> 00:11:01,853
+And who's checking the fact-checkers?
+
+201
+00:11:02,427 --> 00:11:05,511
+Another potential avenue is incentives.
+
+202
+00:11:05,535 --> 00:11:08,169
+We know that during
+the US presidential election
+
+203
+00:11:08,193 --> 00:11:11,883
+there was a wave of misinformation
+that came from Macedonia
+
+204
+00:11:11,907 --> 00:11:14,244
+that didn't have any political motive
+
+205
+00:11:14,268 --> 00:11:16,728
+but instead had an economic motive.
+
+206
+00:11:16,752 --> 00:11:18,900
+And this economic motive existed,
+
+207
+00:11:18,924 --> 00:11:22,448
+because false news travels
+so much farther, faster
+
+208
+00:11:22,472 --> 00:11:24,482
+and more deeply than the truth,
+
+209
+00:11:24,506 --> 00:11:29,466
+and you can earn advertising dollars
+as you garner eyeballs and attention
+
+210
+00:11:29,490 --> 00:11:31,450
+with this type of information.
+
+211
+00:11:31,474 --> 00:11:35,307
+But if we can depress the spread
+of this information,
+
+212
+00:11:35,331 --> 00:11:38,228
+perhaps it would reduce
+the economic incentive
+
+213
+00:11:38,252 --> 00:11:40,942
+to produce it at all in the first place.
+
+214
+00:11:40,966 --> 00:11:43,466
+Third, we can think about regulation,
+
+215
+00:11:43,490 --> 00:11:45,815
+and certainly, we should think
+about this option.
+
+216
+00:11:45,839 --> 00:11:47,450
+In the United States, currently,
+
+217
+00:11:47,474 --> 00:11:52,322
+we are exploring what might happen
+if Facebook and others are regulated.
+
+218
+00:11:52,346 --> 00:11:56,147
+While we should consider things
+like regulating political speech,
+
+219
+00:11:56,171 --> 00:11:58,679
+labeling the fact
+that it's political speech,
+
+220
+00:11:58,703 --> 00:12:02,522
+making sure foreign actors
+can't fund political speech,
+
+221
+00:12:02,546 --> 00:12:05,093
+it also has its own dangers.
+
+222
+00:12:05,522 --> 00:12:10,400
+For instance, Malaysia just instituted
+a six-year prison sentence
+
+223
+00:12:10,424 --> 00:12:13,158
+for anyone found spreading misinformation.
+
+224
+00:12:13,696 --> 00:12:15,775
+And in authoritarian regimes,
+
+225
+00:12:15,799 --> 00:12:20,465
+these kinds of policies can be used
+to suppress minority opinions
+
+226
+00:12:20,489 --> 00:12:23,997
+and to continue to extend repression.
+
+227
+00:12:24,680 --> 00:12:28,223
+The fourth possible option
+is transparency.
+
+228
+00:12:28,843 --> 00:12:32,557
+We want to know
+how do Facebook's algorithms work.
+
+229
+00:12:32,581 --> 00:12:35,461
+How does the data
+combine with the algorithms
+
+230
+00:12:35,485 --> 00:12:38,323
+to produce the outcomes that we see?
+
+231
+00:12:38,347 --> 00:12:40,696
+We want them to open the kimono
+
+232
+00:12:40,720 --> 00:12:44,934
+and show us exactly the inner workings
+of how Facebook is working.
+
+233
+00:12:44,958 --> 00:12:47,737
+And if we want to know
+social media's effect on society,
+
+234
+00:12:47,761 --> 00:12:49,847
+we need scientists, researchers
+
+235
+00:12:49,871 --> 00:12:53,014
+and others to have access
+to this kind of information.
+
+236
+00:12:53,038 --> 00:12:54,585
+But at the same time,
+
+237
+00:12:54,609 --> 00:12:58,410
+we are asking Facebook
+to lock everything down,
+
+238
+00:12:58,434 --> 00:13:00,607
+to keep all of the data secure.
+
+239
+00:13:00,631 --> 00:13:03,790
+So, Facebook and the other
+social media platforms
+
+240
+00:13:03,814 --> 00:13:06,948
+are facing what I call
+a transparency paradox.
+
+241
+00:13:07,266 --> 00:13:09,940
+We are asking them, at the same time,
+
+242
+00:13:09,964 --> 00:13:14,773
+to be open and transparent
+and, simultaneously secure.
+
+243
+00:13:14,797 --> 00:13:17,488
+This is a very difficult needle to thread,
+
+244
+00:13:17,512 --> 00:13:19,425
+but they will need to thread this needle
+
+245
+00:13:19,449 --> 00:13:23,236
+if we are to achieve the promise
+of social technologies
+
+246
+00:13:23,260 --> 00:13:24,902
+while avoiding their peril.
+
+247
+00:13:24,926 --> 00:13:29,617
+The final thing that we could think about
+is algorithms and machine learning.
+
+248
+00:13:29,641 --> 00:13:34,918
+Technology devised to root out
+and understand fake news, how it spreads,
+
+249
+00:13:34,942 --> 00:13:37,273
+and to try and dampen its flow.
+
+250
+00:13:37,824 --> 00:13:40,721
+Humans have to be in the loop
+of this technology,
+
+251
+00:13:40,745 --> 00:13:43,023
+because we can never escape
+
+252
+00:13:43,047 --> 00:13:47,085
+that underlying any technological
+solution or approach
+
+253
+00:13:47,109 --> 00:13:51,156
+is a fundamental ethical
+and philosophical question
+
+254
+00:13:51,180 --> 00:13:54,450
+about how do we define truth and falsity,
+
+255
+00:13:54,474 --> 00:13:57,654
+to whom do we give the power
+to define truth and falsity
+
+256
+00:13:57,678 --> 00:14:00,138
+and which opinions are legitimate,
+
+257
+00:14:00,162 --> 00:14:03,868
+which type of speech
+should be allowed and so on.
+
+258
+00:14:03,892 --> 00:14:06,220
+Technology is not a solution for that.
+
+259
+00:14:06,244 --> 00:14:09,942
+Ethics and philosophy
+is a solution for that.
+
+260
+00:14:10,950 --> 00:14:14,268
+Nearly every theory
+of human decision making,
+
+261
+00:14:14,292 --> 00:14:17,053
+human cooperation and human coordination
+
+262
+00:14:17,077 --> 00:14:20,751
+has some sense of the truth at its core.
+
+263
+00:14:21,347 --> 00:14:23,403
+But with the rise of fake news,
+
+264
+00:14:23,427 --> 00:14:24,870
+the rise of fake video,
+
+265
+00:14:24,894 --> 00:14:26,776
+the rise of fake audio,
+
+266
+00:14:26,800 --> 00:14:30,724
+we are teetering on the brink
+of the end of reality,
+
+267
+00:14:30,748 --> 00:14:34,637
+where we cannot tell
+what is real from what is fake.
+
+268
+00:14:34,661 --> 00:14:37,700
+And that's potentially
+incredibly dangerous.
+
+269
+00:14:38,931 --> 00:14:42,879
+We have to be vigilant
+in defending the truth
+
+270
+00:14:42,903 --> 00:14:44,437
+against misinformation.
+
+271
+00:14:44,919 --> 00:14:48,355
+With our technologies, with our policies
+
+272
+00:14:48,379 --> 00:14:50,299
+and, perhaps most importantly,
+
+273
+00:14:50,323 --> 00:14:53,537
+with our own individual responsibilities,
+
+274
+00:14:53,561 --> 00:14:57,116
+decisions, behaviors and actions.
+
+275
+00:14:57,553 --> 00:14:58,990
+Thank you very much.
+
+276
+00:14:59,014 --> 00:15:02,531
+(Applause)
+

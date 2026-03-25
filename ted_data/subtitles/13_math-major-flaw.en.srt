@@ -1,0 +1,372 @@
+1
+00:00:06,961 --> 00:00:08,671
+Consider this mathematician,
+
+2
+00:00:08,671 --> 00:00:13,134
+with her standard-issue infinitely sharp
+knife and a perfect ball.
+
+3
+00:00:13,259 --> 00:00:18,681
+She frantically slices and distributes
+the ball into an infinite number of boxes.
+
+4
+00:00:18,765 --> 00:00:22,769
+She then recombines the parts
+into five precise sections.
+
+5
+00:00:22,852 --> 00:00:25,813
+Gently moving and rotating
+these sections around,
+
+6
+00:00:25,855 --> 00:00:31,819
+seemingly impossibly, she recombines them
+to form two identical, flawless,
+
+7
+00:00:31,819 --> 00:00:34,906
+and complete copies
+of the original ball.
+
+8
+00:00:35,031 --> 00:00:39,786
+This is a result known in mathematics
+as the Banach-Tarski paradox.
+
+9
+00:00:39,911 --> 00:00:42,997
+The paradox here is not
+in the logic or the proof—
+
+10
+00:00:42,997 --> 00:00:44,874
+which are, like the balls, flawless—
+
+11
+00:00:44,874 --> 00:00:47,835
+but instead in the tension
+between mathematics
+
+12
+00:00:47,835 --> 00:00:50,546
+and our own experience of reality.
+
+13
+00:00:50,713 --> 00:00:54,425
+And in this tension lives some beautiful
+and fundamental truths
+
+14
+00:00:54,425 --> 00:00:57,095
+about what mathematics actually is.
+
+15
+00:00:57,095 --> 00:00:59,430
+We’ll come back to that in a moment,
+but first,
+
+16
+00:00:59,430 --> 00:01:04,268
+we need to examine the foundation
+of every mathematical system: axioms.
+
+17
+00:01:05,019 --> 00:01:07,730
+Every mathematical system
+is built and advanced
+
+18
+00:01:07,730 --> 00:01:10,858
+by using logic to reach new conclusions.
+
+19
+00:01:10,983 --> 00:01:13,945
+But logic can’t be applied to nothing;
+
+20
+00:01:14,028 --> 00:01:17,698
+we have to start with some basic
+statements, called axioms,
+
+21
+00:01:17,698 --> 00:01:21,452
+that we declare to be true,
+and make deductions from there.
+
+22
+00:01:21,661 --> 00:01:25,331
+Often these match our intuition
+for how the world works—
+
+23
+00:01:25,331 --> 00:01:30,294
+for instance, that adding zero to a number
+has no effect is an axiom.
+
+24
+00:01:30,586 --> 00:01:35,633
+If the goal of mathematics is to build
+a house, axioms form its foundation—
+
+25
+00:01:35,758 --> 00:01:39,345
+the first thing that’s laid down,
+that supports everything else.
+
+26
+00:01:39,470 --> 00:01:43,641
+Where things get interesting is that
+by laying a slightly different foundation,
+
+27
+00:01:43,641 --> 00:01:47,478
+you can get a vastly different
+but equally sound structure.
+
+28
+00:01:47,645 --> 00:01:51,691
+For example, when Euclid laid
+his foundations for geometry,
+
+29
+00:01:51,691 --> 00:01:56,612
+one of his axioms implied that given
+a line and a point off the line,
+
+30
+00:01:56,612 --> 00:02:00,950
+only one parallel line exists
+going through that point.
+
+31
+00:02:01,159 --> 00:02:02,869
+But later mathematicians,
+
+32
+00:02:02,869 --> 00:02:07,290
+wanting to see if geometry was
+still possible without this axiom,
+
+33
+00:02:07,290 --> 00:02:10,459
+produced spherical
+and hyperbolic geometry.
+
+34
+00:02:10,459 --> 00:02:14,881
+Each valid, logically sound,
+and useful in different contexts.
+
+35
+00:02:15,131 --> 00:02:19,552
+One axiom common in modern mathematics
+is the Axiom of Choice.
+
+36
+00:02:19,635 --> 00:02:24,682
+It typically comes into play in proofs
+that require choosing elements from sets—
+
+37
+00:02:24,807 --> 00:02:28,561
+which we’ll grossly simplify
+to marbles in boxes.
+
+38
+00:02:28,811 --> 00:02:32,064
+For our choices to be valid,
+they need to be consistent,
+
+39
+00:02:32,064 --> 00:02:34,984
+meaning if we approach a box,
+choose a marble,
+
+40
+00:02:34,984 --> 00:02:39,989
+and then go back in time and choose again,
+we'd know how to find the same marble.
+
+41
+00:02:40,072 --> 00:02:42,950
+If we have a finite number of boxes,
+that’s easy.
+
+42
+00:02:43,034 --> 00:02:46,162
+It’s even straightforward
+when there are infinite boxes
+
+43
+00:02:46,162 --> 00:02:50,541
+if each contains a marble that’s readily
+distinguishable from the others.
+
+44
+00:02:50,708 --> 00:02:54,879
+It’s when there are infinite boxes
+with indistinguishable marbles
+
+45
+00:02:54,879 --> 00:02:55,922
+that we have trouble.
+
+46
+00:02:55,922 --> 00:02:57,256
+But in these scenarios,
+
+47
+00:02:57,256 --> 00:03:01,886
+the Axiom of Choice lets us summon
+a mysterious omniscient chooser
+
+48
+00:03:01,886 --> 00:03:04,347
+that will always select the same marbles—
+
+49
+00:03:04,347 --> 00:03:07,850
+without us having to know anything
+about how those choices are made.
+
+50
+00:03:07,934 --> 00:03:12,146
+Our stab-happy mathematician,
+following Banach and Tarski’s proof,
+
+51
+00:03:12,146 --> 00:03:15,066
+reaches a step in constructing
+the five sections
+
+52
+00:03:15,066 --> 00:03:20,071
+where she has infinitely many boxes
+filled with indistinguishable parts.
+
+53
+00:03:20,196 --> 00:03:25,159
+So she needs the Axiom of Choice
+to make their construction possible.
+
+54
+00:03:25,409 --> 00:03:29,914
+If the Axiom of Choice can lead
+to such a counterintuitive result,
+
+55
+00:03:29,914 --> 00:03:31,540
+should we just reject it?
+
+56
+00:03:31,666 --> 00:03:33,709
+Mathematicians today say no,
+
+57
+00:03:33,709 --> 00:03:38,172
+because it’s load-bearing for a lot
+of important results in mathematics.
+
+58
+00:03:38,422 --> 00:03:41,842
+Fields like measure theory
+and functional analysis,
+
+59
+00:03:41,842 --> 00:03:44,720
+which are crucial
+for statistics and physics,
+
+60
+00:03:44,720 --> 00:03:46,973
+are built upon the Axiom of Choice.
+
+61
+00:03:46,973 --> 00:03:49,976
+While it leads to some
+impractical results,
+
+62
+00:03:49,976 --> 00:03:53,104
+it also leads to extremely practical ones.
+
+63
+00:03:53,646 --> 00:03:59,026
+Fortunately, just as Euclidean geometry
+exists alongside hyperbolic geometry,
+
+64
+00:03:59,026 --> 00:04:04,073
+mathematics with the Axiom of Choice
+coexists with mathematics without it.
+
+65
+00:04:04,490 --> 00:04:08,494
+The question for many mathematicians
+isn’t whether the Axiom of Choice,
+
+66
+00:04:08,494 --> 00:04:12,123
+or for that matter any given axiom,
+is right or not,
+
+67
+00:04:12,164 --> 00:04:15,501
+but whether it’s right
+for what you’re trying to do.
+
+68
+00:04:15,668 --> 00:04:19,797
+The fate of the Banach-Tarski paradox
+lies in this choice.
+
+69
+00:04:20,172 --> 00:04:22,675
+This is the freedom mathematics gives us.
+
+70
+00:04:22,675 --> 00:04:26,053
+Not only is it a way to model
+our physical universe
+
+71
+00:04:26,053 --> 00:04:29,640
+using the axioms we intuit
+from our daily experiences,
+
+72
+00:04:29,640 --> 00:04:33,644
+but a way to venture into abstract
+mathematical universes
+
+73
+00:04:33,644 --> 00:04:39,984
+and explore arcane geometries and laws
+unlike anything we can ever experience.
+
+74
+00:04:40,484 --> 00:04:45,823
+If we ever meet aliens, axioms which seem
+absurd and incomprehensible to us
+
+75
+00:04:45,823 --> 00:04:48,534
+might be everyday common sense to them.
+
+76
+00:04:49,160 --> 00:04:53,497
+To investigate, we might start by handing
+them an infinitely sharp knife
+
+77
+00:04:53,497 --> 00:04:55,041
+and a perfect ball,
+
+78
+00:04:55,041 --> 00:04:56,334
+and see what they do.
+

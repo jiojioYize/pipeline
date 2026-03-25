@@ -29,7 +29,7 @@ TALKS = {
     5:{"search":"TED Michael Murphy Architecture that's built to heal","slug":"architecture-heal"},
     6:{"search":"TED Jeff Speck 4 ways to make a city more walkable","slug":"walkable-city"},
     7:{"search":"TED Parag Khanna How megacities are changing the map of the world","slug":"megacities"},
-    8:{"search":"TED-Ed Where do math symbols come from John David Walters","slug":"math-symbols"},
+    8:{"search":"https://www.youtube.com/watch?v=X_xR5Kes4Rs","slug":"math-discovered-or-invented"},
     9:{"search":"TED Arthur Benjamin the magic of Fibonacci numbers","slug":"fibonacci-numbers"},
     10:{"search":"TED Robert Lang the math and magic of origami","slug":"origami-math"},
     11:{"search":"TED Eddie Woo How math is our real sixth sense","slug":"math-sixth-sense"},
@@ -47,13 +47,13 @@ TALKS = {
     23:{"search":"TED Catarina Mota play with smart materials","slug":"smart-materials"},
     24:{"search":"TED Meklit Hadero the unexpected beauty of everyday sounds","slug":"everyday-sounds"},
     25:{"search":"TED Skylar Tibbits can we make things that make themselves","slug":"4d-printing"},
-    26:{"search":"TED Taylor Sparks how to discover materials of the future","slug":"materials-future"},
+    26:{"search":"https://www.youtube.com/watch?v=KAiWdme6EEM","slug":"sustainable-architecture-building-blocks"},
     27:{"search":"TED-Ed How do self-driving cars see Sajan Saini","slug":"self-driving-see"},
     28:{"search":"TED-Ed ethical dilemma of self-driving cars Patrick Lin","slug":"self-driving-ethics"},
     29:{"search":"TED Wanis Kabbaj driverless world","slug":"driverless-world-transport"},
     30:{"search":"TED Aicha Evans your self-driving robotaxi is almost here","slug":"robotaxi"},
-    31:{"search":"TED Nico Larco how will autonomous vehicles transform our cities","slug":"av-transform-cities"},
-    32:{"search":"TED David Silver how self-driving cars work","slug":"self-driving-how"},
+    31:{"search":"https://www.youtube.com/watch?v=tiwVMrTLUWg","slug":"driverless-car-sees-road"},
+    32:{"search":"https://www.youtube.com/watch?v=apPWr-jkTeQ","slug":"why-driverless-cars-still-bad-driving"},
 }
 
 # ====================== 步骤 1: 下载 ======================
@@ -100,7 +100,17 @@ def download_all():
 
 # ====================== 步骤 2: 解析 SRT ======================
 
-def parse_all(pause_threshold=2.0):
+def parse_all(
+    pause_threshold=2.0,
+    smart_segmentation=False,
+    restore_punctuation=False,
+    target_words=150,
+    min_words=70,
+    max_words=260,
+    min_duration=12,
+    max_duration=70,
+    soft_pause=0.8,
+):
     PARSED_DIR.mkdir(parents=True, exist_ok=True)
     try:
         import pysrt
@@ -137,7 +147,18 @@ def parse_all(pause_threshold=2.0):
         if not entries:
             print(f"  ⚠️ SRT 为空"); continue
 
-        paragraphs = merge_to_paragraphs(entries, pause_threshold)
+        paragraphs = merge_to_paragraphs(
+            entries,
+            pause_threshold,
+            smart_segmentation,
+            restore_punctuation=restore_punctuation,
+            target_words=target_words,
+            min_words=min_words,
+            max_words=max_words,
+            min_duration=min_duration,
+            max_duration=max_duration,
+            soft_pause=soft_pause,
+        )
         json.dump({"article_id": aid, "slug": slug, "srt_file": srt_path.name,
                     "paragraphs": paragraphs}, open(out,"w",encoding="utf-8"), indent=2, ensure_ascii=False)
 
@@ -147,22 +168,277 @@ def parse_all(pause_threshold=2.0):
     print(f"\n解析完成! 结果: {PARSED_DIR}")
 
 
-def merge_to_paragraphs(entries, pause_threshold=2.0):
-    if not entries: return []
-    paragraphs, texts, start, prev_end = [], [], entries[0]["start"], entries[0]["end"]
+def merge_to_paragraphs(
+    entries,
+    pause_threshold=2.0,
+    smart_segmentation=False,
+    restore_punctuation=False,
+    target_words=150,
+    min_words=70,
+    max_words=260,
+    min_duration=12,
+    max_duration=70,
+    soft_pause=0.8,
+):
+    if not entries:
+        return []
+    groups = split_by_pause(entries, pause_threshold)
+    if smart_segmentation:
+        groups = rebalance_groups(
+            groups,
+            restore_punctuation=restore_punctuation,
+            target_words=target_words,
+            min_words=min_words,
+            hard_max_words=max_words,
+            min_duration=min_duration,
+            max_duration=max_duration,
+            soft_pause=soft_pause,
+        )
+    paragraphs = []
+    for g in groups:
+        text = " ".join(x["text"] for x in g).strip()
+        if not text:
+            continue
+        paragraphs.append({
+            "text": text,
+            "start_time": int(round(g[0]["start"])),
+            "end_time": int(round(g[-1]["end"])),
+        })
+    return paragraphs
 
-    for e in entries:
-        if e["start"] - prev_end > pause_threshold and texts:
-            paragraphs.append({"text": " ".join(texts).strip(),
-                "start_time": int(round(start)), "end_time": int(round(prev_end))})
-            texts, start = [], e["start"]
-        texts.append(e["text"])
+
+def split_by_pause(entries, pause_threshold):
+    groups, cur = [], [entries[0]]
+    prev_end = entries[0]["end"]
+    for e in entries[1:]:
+        # Keep sentence integrity: only break on pause when current chunk ends a sentence.
+        if e["start"] - prev_end > pause_threshold and cur and ends_sentence(cur[-1]["text"]):
+            groups.append(cur)
+            cur = []
+        cur.append(e)
         prev_end = e["end"]
+    if cur:
+        groups.append(cur)
+    return groups
 
-    if texts:
-        paragraphs.append({"text": " ".join(texts).strip(),
-            "start_time": int(round(start)), "end_time": int(round(prev_end))})
-    return [p for p in paragraphs if p["text"].strip()]
+
+def ends_sentence(text):
+    if not text:
+        return False
+    t = text.strip()
+    if not t:
+        return False
+    t = t.rstrip('"\'”’)]} ')
+    return bool(t) and t[-1] in ".!?。！？"
+
+
+def group_words(g):
+    return sum(len(x["text"].split()) for x in g)
+
+
+def group_duration(g):
+    return g[-1]["end"] - g[0]["start"]
+
+
+def find_split_point(g, target_words=150, soft_pause=0.8):
+    if len(g) < 2:
+        return None
+    total = group_words(g)
+    left_words = 0
+    best_idx, best_score = None, float("inf")
+    for i in range(1, len(g)):
+        left_words += len(g[i - 1]["text"].split())
+        right_words = total - left_words
+        if left_words < 35 or right_words < 35:
+            continue
+        # Never split in the middle of a sentence.
+        if not ends_sentence(g[i - 1]["text"]):
+            continue
+        gap = g[i]["start"] - g[i - 1]["end"]
+        pause_bonus = 0 if gap >= soft_pause else 80
+        balance = abs(left_words - target_words) + abs(right_words - target_words)
+        score = balance + pause_bonus
+        if score < best_score:
+            best_score = score
+            best_idx = i
+    return best_idx
+
+
+def split_group_by_sentence_text(g, target_words=150, hard_max_words=260, max_duration=70):
+    """Fallback splitter: split oversized groups by sentence text with estimated timing."""
+    if len(g) <= 1:
+        return [g]
+
+    full_text = " ".join(x["text"] for x in g).strip()
+    if not full_text:
+        return [g]
+
+    # Split on sentence-ending punctuation while keeping sentence integrity.
+    sentences = [s.strip() for s in re.split(r"(?<=[.!?。！？])\s+", full_text) if s.strip()]
+    if len(sentences) <= 1:
+        return [g]
+
+    start = g[0]["start"]
+    end = g[-1]["end"]
+    total_duration = max(end - start, 0.1)
+    total_chars = max(sum(len(s) for s in sentences), 1)
+
+    sentence_entries = []
+    cursor = start
+    for i, s in enumerate(sentences):
+        if i == len(sentences) - 1:
+            seg_end = end
+        else:
+            seg_dur = total_duration * (len(s) / total_chars)
+            seg_end = min(end, cursor + seg_dur)
+        sentence_entries.append({"text": s, "start": cursor, "end": seg_end})
+        cursor = seg_end
+
+    groups, cur = [], []
+    cur_words = 0
+    for e in sentence_entries:
+        w = len(e["text"].split())
+        cur_duration = (e["end"] - cur[0]["start"]) if cur else 0
+        if cur and ((cur_words + w > hard_max_words) or (cur_duration > max_duration and cur_words >= target_words)):
+            groups.append(cur)
+            cur = []
+            cur_words = 0
+        cur.append(e)
+        cur_words += w
+    if cur:
+        groups.append(cur)
+    return groups if groups else [g]
+
+
+def split_group_by_restored_punctuation(g, target_words=150, hard_max_words=260, max_duration=70, sentence_pause=0.9, min_sentence_words=10):
+    """Fallback for ASR text without punctuation: infer sentence boundaries via pauses and length."""
+    if len(g) <= 1:
+        return [g]
+
+    sentence_chunks = []
+    cur = [g[0]]
+    cur_words = len(g[0]["text"].split())
+    for i in range(1, len(g)):
+        prev = g[i - 1]
+        now = g[i]
+        gap = now["start"] - prev["end"]
+        should_break = gap >= sentence_pause and cur_words >= min_sentence_words
+        if should_break:
+            sentence_chunks.append(cur)
+            cur = [now]
+            cur_words = len(now["text"].split())
+        else:
+            cur.append(now)
+            cur_words += len(now["text"].split())
+    if cur:
+        sentence_chunks.append(cur)
+
+    if len(sentence_chunks) <= 1:
+        return [g]
+
+    sentence_entries = []
+    for chunk in sentence_chunks:
+        t = " ".join(x["text"] for x in chunk).strip()
+        if not t:
+            continue
+        if not ends_sentence(t):
+            t = t.rstrip() + "."
+        sentence_entries.append({"text": t, "start": chunk[0]["start"], "end": chunk[-1]["end"]})
+
+    if len(sentence_entries) <= 1:
+        return [g]
+
+    groups, cur = [], []
+    cur_words = 0
+    for e in sentence_entries:
+        w = len(e["text"].split())
+        cur_duration = (e["end"] - cur[0]["start"]) if cur else 0
+        if cur and ((cur_words + w > hard_max_words) or (cur_duration > max_duration and cur_words >= target_words)):
+            groups.append(cur)
+            cur = []
+            cur_words = 0
+        cur.append(e)
+        cur_words += w
+    if cur:
+        groups.append(cur)
+    return groups if groups else [g]
+
+
+def split_large_group(g, hard_max_words=260, max_duration=70, target_words=150, soft_pause=0.8, restore_punctuation=False):
+    if group_words(g) <= hard_max_words and group_duration(g) <= max_duration:
+        return [g]
+    idx = find_split_point(g, target_words=target_words, soft_pause=soft_pause)
+    if idx is None:
+        by_punctuation = split_group_by_sentence_text(
+            g,
+            target_words=target_words,
+            hard_max_words=hard_max_words,
+            max_duration=max_duration,
+        )
+        if by_punctuation != [g] or not restore_punctuation:
+            return by_punctuation
+        return split_group_by_restored_punctuation(
+            g,
+            target_words=target_words,
+            hard_max_words=hard_max_words,
+            max_duration=max_duration,
+        )
+    left = split_large_group(
+        g[:idx],
+        hard_max_words=hard_max_words,
+        max_duration=max_duration,
+        target_words=target_words,
+        soft_pause=soft_pause,
+    )
+    right = split_large_group(
+        g[idx:],
+        hard_max_words=hard_max_words,
+        max_duration=max_duration,
+        target_words=target_words,
+        soft_pause=soft_pause,
+    )
+    return left + right
+
+
+def rebalance_groups(
+    groups,
+    restore_punctuation=False,
+    target_words=150,
+    min_words=70,
+    hard_max_words=260,
+    min_duration=12,
+    max_duration=70,
+    soft_pause=0.8,
+):
+    expanded = []
+    for g in groups:
+        expanded.extend(
+            split_large_group(
+                g,
+                restore_punctuation=restore_punctuation,
+                hard_max_words=hard_max_words,
+                max_duration=max_duration,
+                target_words=target_words,
+                soft_pause=soft_pause,
+            )
+        )
+    if not expanded:
+        return expanded
+
+    merged = []
+    i = 0
+    while i < len(expanded):
+        cur = expanded[i]
+        while i < len(expanded) - 1 and (group_words(cur) < min_words or group_duration(cur) < min_duration):
+            i += 1
+            cur = cur + expanded[i]
+        merged.append(cur)
+        i += 1
+
+    if len(merged) >= 2 and (group_words(merged[-1]) < min_words or group_duration(merged[-1]) < min_duration):
+        merged[-2] = merged[-2] + merged[-1]
+        merged.pop()
+    return merged
 
 # ====================== 步骤 3: 补全 SQL ======================
 
@@ -232,10 +508,29 @@ def main():
     p.add_argument("--mode", choices=["download","parse","sql","all"], required=True,
         help="download-下载 | parse-解析SRT | sql-补全SQL | all-全部")
     p.add_argument("--pause-threshold", type=float, default=2.0, help="段落分界阈值（秒）")
+    p.add_argument("--smart-segmentation", action="store_true", help="智能分段：基于段长二次切分与合并")
+    p.add_argument("--restore-punctuation", action="store_true", help="标点恢复：为无标点 ASR 文本推断句末")
+    p.add_argument("--target-words", type=int, default=150, help="智能分段目标词数")
+    p.add_argument("--min-words", type=int, default=70, help="智能分段最小词数")
+    p.add_argument("--max-words", type=int, default=260, help="智能分段最大词数")
+    p.add_argument("--min-duration", type=float, default=12.0, help="智能分段最小时长（秒）")
+    p.add_argument("--max-duration", type=float, default=70.0, help="智能分段最大时长（秒）")
+    p.add_argument("--soft-pause", type=float, default=0.8, help="智能分段优先切分的软停顿阈值（秒）")
     a = p.parse_args()
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     if a.mode in ("download","all"): download_all()
-    if a.mode in ("parse","all"): parse_all(a.pause_threshold)
+    if a.mode in ("parse","all"):
+        parse_all(
+            a.pause_threshold,
+            a.smart_segmentation,
+            restore_punctuation=a.restore_punctuation,
+            target_words=a.target_words,
+            min_words=a.min_words,
+            max_words=a.max_words,
+            min_duration=a.min_duration,
+            max_duration=a.max_duration,
+            soft_pause=a.soft_pause,
+        )
     if a.mode in ("sql","all"): generate_sql()
 
 if __name__ == "__main__": main()
