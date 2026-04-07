@@ -1,0 +1,30 @@
+{
+  "article_id": 13,
+  "paragraphs": [
+    {
+      "text": "Consider this mathematician, with her standard-issue infinitely sharp knife and a perfect ball. She frantically slices and distributes the ball into an infinite number of boxes. She then recombines the parts into five precise sections. Gently moving and rotating these sections around, seemingly impossibly, she recombines them to form two identical, flawless, and complete copies of the original ball. This is a result known in mathematics as the Banach-Tarski paradox. The paradox here is not in the logic or the proof— which are, like the balls, flawless— but instead in the tension between mathematics and our own experience of reality. And in this tension lives some beautiful and fundamental truths about what mathematics actually is. We’ll come back to that in a moment, but first, we need to examine the foundation of every mathematical system: axioms. Every mathematical system is built and advanced by using logic to reach new conclusions.",
+      "start_time": 7,
+      "end_time": 71
+    },
+    {
+      "text": "But logic can’t be applied to nothing; we have to start with some basic statements, called axioms, that we declare to be true, and make deductions from there. Often these match our intuition for how the world works— for instance, that adding zero to a number has no effect is an axiom. If the goal of mathematics is to build a house, axioms form its foundation— the first thing that’s laid down, that supports everything else. Where things get interesting is that by laying a slightly different foundation, you can get a vastly different but equally sound structure. For example, when Euclid laid his foundations for geometry, one of his axioms implied that given a line and a point off the line, only one parallel line exists going through that point. But later mathematicians, wanting to see if geometry was still possible without this axiom, produced spherical and hyperbolic geometry.",
+      "start_time": 71,
+      "end_time": 130
+    },
+    {
+      "text": "Each valid, logically sound, and useful in different contexts. One axiom common in modern mathematics is the Axiom of Choice. It typically comes into play in proofs that require choosing elements from sets— which we’ll grossly simplify to marbles in boxes. For our choices to be valid, they need to be consistent, meaning if we approach a box, choose a marble, and then go back in time and choose again, we'd know how to find the same marble. If we have a finite number of boxes, that’s easy. It’s even straightforward when there are infinite boxes if each contains a marble that’s readily distinguishable from the others. It’s when there are infinite boxes with indistinguishable marbles that we have trouble. But in these scenarios, the Axiom of Choice lets us summon a mysterious omniscient chooser that will always select the same marbles— without us having to know anything about how those choices are made.",
+      "start_time": 130,
+      "end_time": 188
+    },
+    {
+      "text": "Our stab-happy mathematician, following Banach and Tarski’s proof, reaches a step in constructing the five sections where she has infinitely many boxes filled with indistinguishable parts. So she needs the Axiom of Choice to make their construction possible. If the Axiom of Choice can lead to such a counterintuitive result, should we just reject it? Mathematicians today say no, because it’s load-bearing for a lot of important results in mathematics. Fields like measure theory and functional analysis, which are crucial for statistics and physics, are built upon the Axiom of Choice. While it leads to some impractical results, it also leads to extremely practical ones. Fortunately, just as Euclidean geometry exists alongside hyperbolic geometry, mathematics with the Axiom of Choice coexists with mathematics without it.",
+      "start_time": 188,
+      "end_time": 244
+    },
+    {
+      "text": "The question for many mathematicians isn’t whether the Axiom of Choice, or for that matter any given axiom, is right or not, but whether it’s right for what you’re trying to do. The fate of the Banach-Tarski paradox lies in this choice. This is the freedom mathematics gives us. Not only is it a way to model our physical universe using the axioms we intuit from our daily experiences, but a way to venture into abstract mathematical universes and explore arcane geometries and laws unlike anything we can ever experience. If we ever meet aliens, axioms which seem absurd and incomprehensible to us might be everyday common sense to them. To investigate, we might start by handing them an infinitely sharp knife and a perfect ball, and see what they do.",
+      "start_time": 244,
+      "end_time": 296
+    }
+  ]
+}

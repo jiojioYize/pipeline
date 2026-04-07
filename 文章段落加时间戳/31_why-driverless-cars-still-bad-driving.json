@@ -1,0 +1,45 @@
+{
+  "article_id": 31,
+  "paragraphs": [
+    {
+      "text": "Transcriber: Göksu Doğan Reviewer: Vaia Katsarou I first found my love of engineering and automotive technology a mere six miles down the road. With my engineering degree I designed steering columns, I launched seeding programs, I went back to school again  and became a lawyer, where now I work with automotive companies to get technology into the market. It's a fantastic opportunity. But what really set me aflame  was driverless cars. The notion of these sensors and these systems, the AI, just fascinating technology. But what, really, drew me was the vision of a more  perfect driving future, inclusion for the disabled, for the elderly, and for those underserved communities. To me that was important. And what cemented this  was my very first speaking gig on autonomous vehicles. Now, granted, I was there speaking about what happens when these car crashes happen  and who’s to blame. And everybody wanted to know  who do you blame. But there were people at that conference that, really, were doing amazing work. I met the delegation from the State of Nevada, and they told me about Sam Schmidt, a race car driver, who was rendered  paralyzed following an accident. It was Sam's goal to get back behind the proverbial wheel of a vehicle again, and they wanted  that inclusive future for him.",
+      "start_time": 0,
+      "end_time": 102
+    },
+    {
+      "text": "In 2016, Sam was blessed to be one of the first people in the country with a license to ride. Now, he did have his opportunity and he’s there, but what’s happened to technology since. The cars keep getting smarter, I mean, they’re computers on wheels, but we still have challenges. Let's take a look at an example. The Tesla full self drive. Now, yes, Tesla full self drive  is not an automated vehicle, not, not really. But let’s look at how it works because that’s really critical to this whole operation of AVs.",
+      "start_time": 103,
+      "end_time": 139
+    },
+    {
+      "text": "Drivers collect all of this information, Tesla synthesizes it, they code it and put it back into the AI engine, and the car learns to drive and improves. But wait a minute. What is your average Tesla driver look like? Well, demographics tell us they have, at least, an income of $150,000, 75% of them are male, 70% of them don’t have children at home, and over 80% are white. Now, LendingTree came out with some recent statistics that show us that there are  a couple of other things that we may want to think about. According to LendingTree, they are the second most likely  to have vehicle incidents and the most likely to have  vehicle crashes per thousand vehicles.",
+      "start_time": 140,
+      "end_time": 190
+    },
+    {
+      "text": "Now, not to be too harsh on Tesla, there are shortcomings in the data sets and the collection of other automakers as well. And when you have shortcomings, when you have limited data sets, unfortunate situations happen. In 2019, Georgia Tech conducted  a seminal study on these vision systems and how they detect pedestrians. Georgia Tech found that there was, nearly, a 10% difference in the ability of these systems to detect dark skinned people versus light skinned people.",
+      "start_time": 191,
+      "end_time": 227
+    },
+    {
+      "text": "In 2023, this study was redone by King’s College in London. Now, what King's College found is things have improved. 7% difference, but King’s College, also, found other issues. These systems are 20% more likely  to detect adults when compared to children. Clearly, to get good AV systems on the road, we need an inclusive design. And by inclusive design, I think of my friends in the privacy realm, they wanted to bring privacy to us  throughout the chain, they created privacy by design. So privacy wasn't an afterthought. To have an inclusive mobility, we need inclusion by design, not as an afterthought. So, how do we get there? I’ll give you some tenets of inclusion by design in AI, with three stories. I’m going to talk about a wheelchair and a duck, honking horns and a taco truck. So, let’s start in 2016 with the wheelchair and the duck.",
+      "start_time": 229,
+      "end_time": 295
+    },
+    {
+      "text": "Google had this vehicle and it was testing around the town, and what it found was  a wheelchair and a duck. They called it the renegade granny  on an electric vehicle chasing ducks around. What was fantastic is the vehicle stopped. It did exactly what it was supposed to do. It recognized that the electric wheelchair  had a person on it, and that the duck was important as well. So it was able to identify all people. Expanding upon that, we need systems, AI, data sets that can identify all people regardless of their gender, their age, or their race. So let's fast forward to just a few weeks ago, Waymo driverless vehicles in San Francisco. When a driverless vehicle is done, when a Waymo is done, it kind of congregates in a parking lot, and really it’s an elegant dance  if you see the videos.",
+      "start_time": 298,
+      "end_time": 356
+    },
+    {
+      "text": "The problem is, when they do this dance, they get really close to each other, and they start to honk all night long, really affecting those neighborhood communities, those apartment buildings that are really  adjacent to that parking lot. Look at the bigger picture. That was an unintended consequence. We need to look at the communities that are impacted. Even if the vision system  isn’t seeing them, we need to include the larger scale  and the larger scope. Let's stay in San Francisco and rewind back to 2017. The taco truck. A vehicle detected a taco truck  and it stopped. I mean, come on, who wouldn’t want to stop for a taco truck? The problem was, it didn't start back up again. It saw the pedestrians  going back and forth, and it thought I’ve got to stop,  I don’t know what to do. The safety driver took control and escorted the vehicle away. Inclusion by design necessitates, thinking about location and where we’re at Τhe communities that surround them, and the interactions, whether it’s suburban or urban.",
+      "start_time": 357,
+      "end_time": 424
+    },
+    {
+      "text": "So we've got inclusion by design. We have identify all people. We have look at the bigger picture, and we have think about location. So, with inclusion by design,  and remembering the story of the wheelchair and the duck, honking cars and the taco truck will be able to move towards  that total inclusion by design. It’s something we need to teach  in our engineering schools. It's something that needs to be considered by our standards bodies. It's something that the regulators need to start thinking, so,we can, truly, move forward to that vision of an inclusive mobility. (Applause)",
+      "start_time": 426,
+      "end_time": 470
+    }
+  ]
+}
