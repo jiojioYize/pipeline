@@ -1,7 +1,7 @@
 {
-  "article_id": 31,
+  "article_id": 30,
   "slug": "driverless-car-sees-road",
-  "srt_file": "31_driverless-car-sees-road.en.srt",
+  "srt_file": "30_driverless-car-sees-road.en.srt",
   "paragraphs": [
     {
       "text": "So in 1885, Karl Benz invented the automobile. Later that year, he took it out for the first public test drive, and -- true story -- crashed into a wall. For the last 130 years, we've been working around that least reliable part of the car, the driver. We've made the car stronger. We've added seat belts, we've added air bags, and in the last decade, we've actually started trying to make the car smarter to fix that bug, the driver. Now, today I'm going to talk to you a little bit about the difference between patching around the problem with driver assistance systems and actually having fully self-driving cars and what they can do for the world. I'm also going to talk to you a little bit about our car and allow you to see how it sees the world and how it reacts and what it does, but first I'm going to talk a little bit about the problem.",

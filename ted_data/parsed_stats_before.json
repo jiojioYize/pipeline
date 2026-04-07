@@ -145,22 +145,17 @@
       "avg_words": 622.0
     },
     {
-      "file": "29_driverless-world-transport.json",
-      "paragraphs": 2,
-      "avg_words": 786.0
-    },
-    {
-      "file": "30_robotaxi.json",
+      "file": "29_robotaxi.json",
       "paragraphs": 1,
       "avg_words": 1550.0
     },
     {
-      "file": "31_av-transform-cities.json",
+      "file": "30_driverless-car-sees-road.json",
       "paragraphs": 1,
       "avg_words": 2674.0
     },
     {
-      "file": "32_self-driving-how.json",
+      "file": "31_why-driverless-cars-still-bad-driving.json",
       "paragraphs": 2,
       "avg_words": 814.0
     }
